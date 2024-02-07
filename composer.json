@@ -1,0 +1,13 @@
+{
+    "name": "server-interop/server-interop",
+    "description": "Interoperable request/response interfaces for PHP.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones@pmjones.io"
+        }
+    ],
+    "require": {}
+}
